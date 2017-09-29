@@ -18,6 +18,8 @@ form {
     text-decoration: none;
     font-size: 25px;
     padding: 5px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
     border-radius: 6px;
     margin-top: 50px;
 
